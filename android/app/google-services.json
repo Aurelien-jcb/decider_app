@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "74722918722",
+    "project_id": "deciderapp-d9a0a",
+    "storage_bucket": "deciderapp-d9a0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74722918722:android:01261e71e4dc0348eb48db",
+        "android_client_info": {
+          "package_name": "com.ajcb.flutter_decider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74722918722-mgtlrep6vsjpf26n4l7gpqg31qa68p0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTrNnB8hK_0C85T9fMn8-kn_qfQoC_gsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74722918722-mgtlrep6vsjpf26n4l7gpqg31qa68p0u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74722918722-3ksggje5b8airvhbahimhpt6c775a3ch.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterDeciderApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
